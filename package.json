@@ -1,0 +1,10 @@
+{
+  "name": "54ca28109f8e90d4c0c1b9326fbab2f8",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
